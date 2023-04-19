@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D1DBD531-544C-4DE6-B68E-2DF4FD5E39FE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.API_220Project_2201 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/GroceryController.cs">
+    <Files>
+      <File FileName="Controllers/GroceryController.cs" Line="39" Column="1" />
+      <File FileName="Services/GroceryService.cs" />
+      <File FileName="Models/Grocery.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API Project 1" expanded="True">
+            <Node name="API Project 1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="GroceryController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
